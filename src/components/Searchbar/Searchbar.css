@@ -1,0 +1,30 @@
+.search-box {
+  --radius: 4px;
+  width: 100%;
+  height: 40px;
+  border: 1px solid #999;
+  border-radius: var(--radius);
+  position: relative;
+  overflow: hidden;
+
+}
+
+.search-input {
+  border-radius: var(--radius);
+  height: 100%;
+  width: 100%;
+  background-color: transparent;
+  padding-inline: 0.5rem;
+}
+
+.search-input::placeholder {
+  color: #666666;
+}
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 1rem;
+  cursor: pointer;
+}
