@@ -31,11 +31,14 @@ This is an Admin UI built with React.js and CSS, utilizing Vite for fast develop
    ```bash
    git clone https://github.com/PavitarSharma/admin-ui-challenge.git
    cd admin-ui-challenge
+   ```
 
 2. **Install dependencies:**
    ```bash
    npm install
+   ```
 
 3. **Start Development Server:**
    ```bash
    npm run dev
+   ```
