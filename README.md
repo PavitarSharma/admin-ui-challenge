@@ -2,6 +2,10 @@
 
 This is an Admin UI built with React.js and CSS, utilizing Vite for fast development. The project demonstrates a user management interface where you can search, edit, delete, and paginate user data.
 
+
+![localhost_5173_](https://github.com/user-attachments/assets/32f41c34-ac23-4b32-9bc5-6e0e012112ae)
+
+
 ## Features
 
 - **User Search:** Search by name, email, or role.
